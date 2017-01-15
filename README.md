@@ -1,23 +1,23 @@
 # todo
-Todo App
+Todo App <br>
 
-PHP Framework Used : Laravel
-Front-End Framework : Bootstrap v3
-SDK used : Facebook Graph SDK v5.4(PHP)
+PHP Framework Used : Laravel <br>
+Front-End Framework : Bootstrap v3 <br>
+SDK used : Facebook Graph SDK v5.4(PHP) <br>
 
-Test Link : http://138.197.209.6/todo/
-Test User : raj.gaurav.5201254
-Test Password : todoappuser
+Test Link : http://138.197.209.6/todo/ <br>
+Test User : raj.gaurav.5201254 <br> 
+Test Password : todoappuser <br>
 
-Routes in route/web.php
-Views in resources/views
-  login.blade.php
-  todo.blade.php
-Controllers in app/Http/Controllers
-  LoginController.php
-  TodoController.php
-Models in app/
-  Users.php
-  Tasks.php
-Database in sql/
-  todo.sql
+Routes in route/web.php <br>
+Views in resources/views <br>
+  login.blade.php <br>
+  todo.blade.php <br>
+Controllers in app/Http/Controllers <br>
+  LoginController.php <br>
+  TodoController.php <br>
+Models in app/ <br>
+  Users.php <br>
+  Tasks.php <br>
+Database in sql/ <br>
+  todo.sql <br>
